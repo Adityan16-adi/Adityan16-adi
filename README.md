@@ -58,29 +58,43 @@ I'm still learning, experimenting with new technologies, and improving through t
 
 ## Selected projects
 
-### Campus Marketplace
+### [Campus Marketplace](https://github.com/Adityan16-adi/campus-marketplace)
 
-A Flutter app focused on making it easier for students to buy and sell within their campus community. The project uses Firebase for authentication, Riverpod for state management, and Cloudinary for image uploads.
+**Flutter · Dart · Firebase · Riverpod · Cloudinary**
 
-*Repository link to be added.*
+A mobile app focused on making it easier for students to buy and sell within their campus community. It uses Firebase for authentication, Riverpod for state management, and Cloudinary for image uploads.
 
-### Flutter Pokédex
+[View repository →](https://github.com/Adityan16-adi/campus-marketplace)
 
-A mobile app built with Flutter that uses PokéAPI to explore Pokémon, search entries, and filter by type. It has been a useful project for learning API integration and mobile UI development.
+---
 
-*Repository link to be added.*
+### [Flutter Pokédex](https://github.com/Adityan16-adi/pokedex-flutter-app)
 
-### PRAVEG
+**Flutter · Dart · REST APIs**
 
-A project exploring how predictive analytics and geospatial visualization can help identify infrastructure and land-acquisition delays. It brings together machine learning, GIS, and web technologies.
+A Pokémon explorer built with Flutter and PokéAPI. It includes Pokémon discovery, search, and type filtering, and helped me explore API integration and mobile UI development.
 
-*Repository link to be added.*
+[View repository →](https://github.com/Adityan16-adi/pokedex-flutter-app)
 
-### InsightAgent
+---
+
+### [PRAVEG](https://github.com/ARYAN0-work/PRAVEG)
+
+**AI · Predictive Analytics · GIS**
+
+A project exploring how predictive analytics and geospatial visualization can help identify infrastructure and land-acquisition delays.
+
+[View repository →](https://github.com/ARYAN0-work/PRAVEG)
+
+---
+
+### [InsightAgent](https://github.com/Adityan16-adi/InsightAgent)
+
+**AI Agents · Python · Vite**
 
 An AI-assisted research project exploring ways to investigate investment opportunities and organize findings into structured venture research.
 
-[View repository](https://github.com/Adityan16-adi/InsightAgent)
+[View repository →](https://github.com/Adityan16-adi/InsightAgent)
 
 ---
 
