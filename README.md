@@ -149,7 +149,7 @@ I enjoy turning ideas into practical products — from responsive interfaces and
 
 ![Contribution Snake](https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/output/github-snake-dark.svg)
 
-## 📊 3D Contribution Calendar
+## 🌆 3D Contribution Calendar
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
