@@ -139,6 +139,8 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 ---
 
 ## GitHub stats
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details">
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages">
 
 <div align="center">
 
