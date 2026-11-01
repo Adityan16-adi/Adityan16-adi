@@ -144,10 +144,6 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 
 <div align="center">
 
-[![GitHub stats]
-[![Top languages]
-
-[![GitHub streak]
 </div>
 
 ---
@@ -156,7 +152,7 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 
 <div align="center">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityan16-adi&bg_color=090014&color=00F5D4&line=7B2CBF&point=FFFFFF&area=true&area_color=7B2CBF&hide_border=true)](https://github.com/Adityan16-adi)
+
 
 ![3D contribution calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
