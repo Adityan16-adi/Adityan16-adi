@@ -128,20 +128,33 @@ A team project exploring how predictive analytics and geospatial visualization c
 
 ---
 
-### [Flutter Pokédex](https://github.com/Adityan16-adi/pokedex-flutter-app)
+<table>
+<tr>
+<td width="170" align="center">
+<img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/assets/images/logo.png" width="150" alt="Pokédex logo">
+</td>
+<td>
+<h3><a href="https://github.com/Adityan16-adi/pokedex-flutter-app">Flutter Pokédex</a></h3>
+<b>Flutter · Dart · REST APIs</b>
+<p>A Pokémon explorer built on PokéAPI with a glassmorphism UI, a landing screen, name search, type filtering, and infinite scroll that loads every Pokémon with no fixed limit. It started as my project for learning API integration and mobile UI development.</p>
+<a href="https://github.com/Adityan16-adi/pokedex-flutter-app">View repository →</a>
+</td>
+</tr>
+</table>
 
-**Flutter · Dart · REST APIs**
+<div align="center">
 
-A Pokémon explorer built on PokéAPI with a glassmorphism UI, a landing screen, name search, type filtering, and infinite scroll that loads every Pokémon with no fixed limit.
+<img src="https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/main/pokedex-screens.png" alt="Pokédex app screens: landing, list, type filters and infinite scroll" width="100%">
 
-<p>
-  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/landing.png" width="24%" alt="Landing screen" />
-  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/list.png" width="24%" alt="Pokémon list" />
-  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/filter-fighting.png" width="24%" alt="Type filter" />
-  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/infinite-scroll.png" width="24%" alt="Infinite scroll" />
-</p>
+<sub>Pokédex: landing screen, Pokémon list, type filters, and infinite scroll</sub>
 
-[View repository →](https://github.com/Adityan16-adi/pokedex-flutter-app)
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/main/pokedex-demo.gif" alt="Pokédex app demo walkthrough" width="260">
+
+<sub>Quick walkthrough: browsing, filtering, and infinite scroll</sub>
+
+</div>
 
 ---
 
