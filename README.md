@@ -5,8 +5,10 @@
 [![Typing intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Mobile+App+Developer;Building+with+Flutter+and+Dart;Exploring+AI+and+Full-Stack+Development;Learning+by+Building+Real+Projects)](https://readme-typing-svg.demolab.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/Adityan16-adi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/adityan-pushkar-6bb316344/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRjVENCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/adityan-pushkar-6bb316344/)
 [![Email](https://img.shields.io/badge/Email-090014?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:adityanpushkar@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Adityan16-adi&style=flat-square&color=7B2CBF&label=PROFILE%20VIEWS)
 
 </div>
 
@@ -49,6 +51,16 @@ If any of these sound like a fit, reach me at [adityanpushkar@gmail.com](mailto:
 
 ---
 
+## Skills
+
+| Level | What |
+|---|---|
+| **Comfortable** | Flutter, Dart, Firebase Auth, Riverpod, REST APIs, Git and GitHub |
+| **Working knowledge** (team projects) | Node.js, Express, MongoDB, Python, FastAPI, LiveKit |
+| **Learning** | AI agents, full-stack architecture |
+
+---
+
 ## Featured projects
 
 <table>
@@ -65,6 +77,20 @@ If any of these sound like a fit, reach me at [adityanpushkar@gmail.com](mailto:
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/main/pragti-screens.png" alt="Pragti app screens: welcome, sign in, navigation drawer, learning materials and schedule" width="100%">
+
+<sub>Pragti: welcome, sign in, navigation drawer, learning materials, and weekly schedule</sub>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/main/pragti-demo.gif" alt="Pragti app demo walkthrough" width="260">
+
+<sub>Quick walkthrough: dashboard, learning materials, and the AI mentor</sub>
+
+</div>
 
 ---
 
@@ -112,6 +138,33 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 
 ---
 
+## GitHub stats
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityan16-adi&show_icons=true&hide_border=true&bg_color=090014&title_color=00F5D4&icon_color=E0AAFF&text_color=EDE7F6&rank_icon=github)](https://github.com/Adityan16-adi)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan16-adi&layout=compact&hide_border=true&bg_color=090014&title_color=00F5D4&text_color=EDE7F6)](https://github.com/Adityan16-adi)
+
+[![GitHub streak](https://streak-stats.demolab.com?user=Adityan16-adi&hide_border=true&background=090014&ring=7B2CBF&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=E0AAFF&dates=9D8BAA&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/Adityan16-adi)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityan16-adi&bg_color=090014&color=00F5D4&line=7B2CBF&point=FFFFFF&area=true&area_color=7B2CBF&hide_border=true)](https://github.com/Adityan16-adi)
+
+![3D contribution calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![Contribution snake](https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/output/github-snake.svg)
+
+</div>
+
+---
+
 ## Currently building
 
 - **Pragti:** polishing the Flutter app (live meetings, assignments, AI mentor, UI)
@@ -119,8 +172,8 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 
 <div align="center">
 
-![Footer divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7B2CBF,50:00F5D4,100:FF4D6D)
-
 *Always learning, building, and getting better.*
+
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3C096C,100:00F5D4&height=120&section=footer)
 
 </div>
