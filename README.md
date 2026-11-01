@@ -54,7 +54,7 @@ If any of these sound like a fit, reach me at [adityanpushkar@gmail.com](mailto:
 <table>
 <tr>
 <td width="170" align="center">
-<img src="assets/pragti-logo.jpg" width="150" alt="Pragti logo">
+<img src="https://raw.githubusercontent.com/Adityan16-adi/Adityan16-adi/main/pragti-logo.jpg" width="150" alt="Pragti logo">
 </td>
 <td>
 <h3><a href="https://github.com/Adityan16-adi/brl-final_task-">Pragti: Learning &amp; Virtual Classroom</a></h3>
