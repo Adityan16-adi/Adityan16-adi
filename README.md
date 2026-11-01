@@ -144,11 +144,10 @@ A Pokémon explorer built on PokéAPI with discovery, search, and type filtering
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityan16-adi&show_icons=true&hide_border=true&bg_color=090014&title_color=00F5D4&icon_color=E0AAFF&text_color=EDE7F6&rank_icon=github)](https://github.com/Adityan16-adi)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan16-adi&layout=compact&hide_border=true&bg_color=090014&title_color=00F5D4&text_color=EDE7F6)](https://github.com/Adityan16-adi)
+[![GitHub stats]
+[![Top languages]
 
-[![GitHub streak](https://streak-stats.demolab.com?user=Adityan16-adi&hide_border=true&background=090014&ring=7B2CBF&fire=00F5D4&currStreakLabel=00F5D4&sideLabels=E0AAFF&dates=9D8BAA&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/Adityan16-adi)
-
+[![GitHub streak]
 </div>
 
 ---
