@@ -132,7 +132,14 @@ A team project exploring how predictive analytics and geospatial visualization c
 
 **Flutter · Dart · REST APIs**
 
-A Pokémon explorer built on PokéAPI with discovery, search, and type filtering. It was my project for learning API integration and mobile UI development.
+A Pokémon explorer built on PokéAPI with a glassmorphism UI, a landing screen, name search, type filtering, and infinite scroll that loads every Pokémon with no fixed limit.
+
+<p>
+  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/landing.png" width="24%" alt="Landing screen" />
+  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/list.png" width="24%" alt="Pokémon list" />
+  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/filter-fighting.png" width="24%" alt="Type filter" />
+  <img src="https://raw.githubusercontent.com/Adityan16-adi/pokedex-flutter-app/main/screenshots/infinite-scroll.png" width="24%" alt="Infinite scroll" />
+</p>
 
 [View repository →](https://github.com/Adityan16-adi/pokedex-flutter-app)
 
